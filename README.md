@@ -1,3 +1,3 @@
 # vstodo
 
-Todolist in VSCode.
+Todo list in VSCode.
